@@ -28,7 +28,7 @@ url: https://dan-mccabe.github.io # the base hostname & protocol for your site, 
 github_username:  dan-mccabe
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
