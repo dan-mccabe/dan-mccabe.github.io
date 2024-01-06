@@ -22,7 +22,7 @@ National Science Foundation Graduate Research Fellowship, 2019-2024
 
 C2SMART Center Student of the Year, 2020
 
-Harvey Mudd College Lewis Fellowship in Engineereing Professional Practice, 2015
+Harvey Mudd College Lewis Fellowship in Engineering Professional Practice, 2015
 
 ## Experience
 **Research Assistant**, University of Washington, *Seattle, WA (2019-present)*
