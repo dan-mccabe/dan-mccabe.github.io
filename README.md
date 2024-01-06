@@ -8,8 +8,6 @@ Light and dark modes are available. The theme initializes based on system prefer
 
 See the [demo](https://cvless.netlify.app) to get a better sense of what the theme looks like.
 
-![](https://github.com/piazzai/cvless/blob/master/screenshot.jpg)
-
 ## Installation
 
 1.  Clone this repository.
