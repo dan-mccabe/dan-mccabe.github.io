@@ -9,4 +9,4 @@ I'm a 5th-year PhD student in Civil & Environmental Engineering at the Universit
 
 Outside of buses and other electric vehicles, I'm passionate about bikes in all forms! I've been the president of [Husky Cycling](https://www.huskycyclinguw.com), UW's cycling club, since 2019. I love riding around the city and beyond as well as participating in road, mountain bike, and cyclocross races. I've had a few fun opportunities to mix my love of bikes with my schoolwork, including [designing bicycle delivery routes for food banks](/prp) and [finding the shortest route to ride every trail](/wrpp) at my favorite local mountain bike spot.
 
-My CV is available as a webpage [here](/cv) or a PDF [here](/McCabeResume2023.pdf).
+My CV is available as a webpage [here](/cv) or a PDF [here](/McCabeResume2023.pdf). I'm currently searching for industry jobs starting around Summer/Fall 2024, so please reach out if you are interested in working together.
