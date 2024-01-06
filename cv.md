@@ -27,7 +27,7 @@ Harvey Mudd College Lewis Fellowship in Engineereing Professional Practice, 2015
 ## Experience
 **Research Assistant**, University of Washington, *Seattle, WA (2019-present)*
 
-**Post-Bachelor's Research Assistant**, Pacific Northwest National Laboratory, *Richland & Seattle, WA (2017-2019)*
+**Post-Bachelor's Research Associate**, Pacific Northwest National Laboratory, *Richland & Seattle, WA (2017-2019)*
 
 **Technical Intern**, Pacific Northwest National Laboratory, *Richland, WA (2016)*
 
