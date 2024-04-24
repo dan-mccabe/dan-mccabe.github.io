@@ -1,12 +1,11 @@
 # Dan McCabe's Personal Website
 
-This repository stores my personal website. It is based on [cvless](https://jamstackthemes.dev/theme/jekyll-cvless/),  a theme for static websites built with Jekyll, and deploys automatically to [https://dan-mccabe.github.io](https://dan-mccabe.github.io) using GitHub pages. You are free to adapt it for your own personal use under the MIT License.
+This repository stores my personal website. It is based on [cvless](https://jamstackthemes.dev/theme/jekyll-cvless/),  a theme for static websites built with Jekyll, and deploys automatically to [https://dan-mccabe.github.io](https://dan-mccabe.github.io) using GitHub pages. You are free to adapt it for your own use under the MIT License.
 
 ## Installation
 1.  Clone this repository.
 2.  Rename it to `[username].github.io`.
 3.  Start editing!
-
 
 
 ## Local Development
