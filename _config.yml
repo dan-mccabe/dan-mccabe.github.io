@@ -34,7 +34,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-analytics
 
 whitelist:
   - jekyll-sitemap
@@ -56,8 +55,3 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-4MPY3RLL6E        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
