@@ -9,4 +9,4 @@ I'm a transportation researcher and optimization expert passionate about sustain
 
 Outside of buses and other electric vehicles, I'm passionate about bikes in all forms! I was the president of [Husky Cycling](https://www.huskycyclinguw.com), UW's cycling club, from 2021 through 2024. I love riding around the city and beyond as well as participating in road, mountain bike, and cyclocross races. I've had a few fun opportunities to mix my love of bikes with my schoolwork, including [designing bicycle delivery routes for food banks](/prp) and [finding the shortest route to ride every trail](/wrpp) at my favorite local mountain bike spot.
 
-My CV is available as a webpage [here](/cv) or a PDF [here](/McCabeResume2023.pdf). I'm currently searching for industry jobs starting in Fall 2024, so please reach out if you are interested in working together.
+My CV is available as a webpage [here](/cv) or a PDF [here](/Dan_McCabe_Resume.pdf). I'm currently searching for industry jobs starting in Fall 2024, so please reach out if you are interested in working together.

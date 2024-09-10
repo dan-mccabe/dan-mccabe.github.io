@@ -9,7 +9,7 @@ title: CV
 [www.linkedin.com/in/danielpmccabe](https://www.linkedin.com/in/danielpmccabe)
 
 ## Education
-Ph.D., Civil & Environmental Engineering, University of Washington, Seattle, WA (expected Summer 2024)
+Ph.D., Civil & Environmental Engineering, University of Washington, Seattle, WA, 2024
 
 Visiting Ph.D. Student, Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden (March-September 2023)
 
@@ -19,6 +19,8 @@ B.S., Engineering, Harvey Mudd College, Claremont, CA, 2017
 
 ## Honors
 National Science Foundation Graduate Research Fellowship, 2019-2024
+
+Valle Scholarship & Scandinavian Exchange, 2023
 
 C2SMART Center Student of the Year, 2020
 
@@ -35,7 +37,7 @@ Harvey Mudd College Lewis Fellowship in Engineering Professional Practice, 2015
 CET 513: Transportation Networks & Optimization, University of Washington, Autumn 2022 (sole instructor)
 
 ## Publications
-**McCabe, D.**, X.J. Ban., and B. Kulcsár. Recharging Scheduling for Electric Buses with Exact Delay Propagation. In preparation for *Transportation Research Part E: Logistics and Transportation Review.*
+**McCabe, D.**, X.J. Ban., and B. Kulcsár. Recharging Scheduling for Electric Buses with Exact Delay Propagation. Under review for *Transportation Research Part E: Logistics and Transportation Review.*
 
 **McCabe, D.** and X.J. Ban. Optimal Locations and Sizes of Layover Charging Stations for Electric Buses. *Transportation Research Part C: Emerging Technologies* 152 (2023): 104157. 
 
