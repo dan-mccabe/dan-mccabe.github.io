@@ -9,11 +9,11 @@ title: CV
 [www.linkedin.com/in/danielpmccabe](https://www.linkedin.com/in/danielpmccabe)
 
 ## Education
-Ph.D., Civil & Environmental Engineering, University of Washington, Seattle, WA, 2024
+Ph.D., Civil Engineering, University of Washington, Seattle, WA, 2024
 
 Visiting Ph.D. Student, Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden (March-September 2023)
 
-M.S., Civil & Environmental Engineering, University of Washington, Seattle, WA, 2021
+M.S., Civil Engineering, University of Washington, Seattle, WA, 2021
 
 B.S., Engineering, Harvey Mudd College, Claremont, CA, 2017
 
