@@ -1,9 +1,9 @@
 # site settings
 
-title: Dan McCabe
+title: Dan McCabe, Ph.D.
 description: Personal website for Dan McCabe
-taglong: PhD Student, CEE, University of Washington
-tagshort: University of Washington
+taglong: Optimization and data science for sustainable transportation
+tagshort: Sustainable transportation engineer
 url: https://dan-mccabe.github.io
 baseurl: ""
 permalink: pretty
