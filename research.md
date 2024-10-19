@@ -23,7 +23,10 @@ The technical side of my work centers on optimization, particularly mixed-intege
 * Data processing and visualization tools to help with optmization inputs and outputs. I have several years of experience with major Python libraries like `pandas`, `numpy`, `matplotlib`, and `plotly`.
 
 ## Publications
-**McCabe, D.**, X.J. Ban., and B. Kulcsár. Recharging Scheduling for Electric Buses with Exact Delay Propagation. Under revision for *Transportation Research Part E: Logistics and Transportation Review.*
+**McCabe, D.** *Computational Tools for Battery-Electric Bus Systems: From Infrastructure Planning to Daily Operations*. Ph.D. dissertation, University of Washington, 2024.
+Available [here via Proquest](https://www.proquest.com/docview/3105620986?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses).
+
+**McCabe, D.**, X.J. Ban., and B. Kulcsár. Recharging Scheduling for Electric Buses with Exact Delay Propagation. Under revision for *Transportation Research Part E: Logistics and Transportation Review.* arXiv preprint available at https://arxiv.org/abs/2403.17527.
 
 **McCabe, D.** and X.J. Ban. Optimal Locations and Sizes of Layover Charging Stations for Electric Buses. *Transportation Research Part C: Emerging Technologies* 152 (2023): 104157. 
 
