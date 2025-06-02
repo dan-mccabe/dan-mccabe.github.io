@@ -4,6 +4,13 @@ title: Research
 ---
 
 # My Research
+## Active Postdoctoral Research at NREL
+At NREL, I'm housed in the [Computational Science Center](https://www.nrel.gov/computational-science) and collaborate with researchers throughout the lab and beyond on challenges in transportation and computing. Some active research projects include:
+
+- [INFORMES](https://www.nrel.gov/transportation/informes), a national-scale model for analyzing multimodal freight transportation. I'm using [SimPy](https://simpy.readthedocs.io/en/latest/) to develop a data-driven discrete-event simulation model at the core of this project.
+- Multiple projects focused on transit system electrification, including an FTA-funded project to help agencies design their fleets and a Joint Office project examining the resilience of transit systems served by electric buses.
+
+## PhD Research
 ![Buses charging in Gothenburg, Sweden.](/gbg_bus.png)
 *In front of the fast electric bus chargers at Heden terminal, Gothenburg, Sweden.*
 
