@@ -16,6 +16,8 @@ M.S., Civil Engineering, University of Washington, Seattle, WA, 2021
 B.S., Engineering, Harvey Mudd College, Claremont, CA, 2017
 
 ## Honors
+NLR Key Contributor Award, 2025
+
 National Science Foundation Graduate Research Fellowship, 2019-2024
 
 Valle Scholarship & Scandinavian Exchange, 2023
@@ -25,7 +27,7 @@ C2SMART Center Student of the Year, 2020
 Harvey Mudd College Lewis Fellowship in Engineering Professional Practice, 2015
 
 ## Experience
-**Postdoctoral Researcher**, National Renewable Energy Laboraotry, *Golden, CO (remote, 2025-present)*
+**Postdoctoral Researcher**, National Laboratory of the Rockies (NLR), *Golden, CO (remote, 2025-present)*
 
 **Research Assistant**, University of Washington, *Seattle, WA (2019-2024)*
 
@@ -37,10 +39,11 @@ Harvey Mudd College Lewis Fellowship in Engineering Professional Practice, 2015
 CET 513: Transportation Networks & Optimization, University of Washington, Autumn 2022 (sole instructor)
 
 ## Publications
+TODO: update with link to publication
+**McCabe, D.**, X.J. Ban., and B. Kulcsár. Recharging Scheduling for Electric Buses with Exact Delay Propagation. Accepted for publication in *Communications in Transportation Research.* arXiv preprint available at https://arxiv.org/abs/2403.17527.
+
 **McCabe, D.** *Computational Tools for Battery-Electric Bus Systems: From Infrastructure Planning to Daily Operations*. Ph.D. dissertation, University of Washington, 2024.
 Available [here via Proquest](https://www.proquest.com/docview/3105620986?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses).
-
-**McCabe, D.**, X.J. Ban., and B. Kulcsár. Recharging Scheduling for Electric Buses with Exact Delay Propagation. Accepted for publication in *Communications in Transportation Research.* arXiv preprint available at https://arxiv.org/abs/2403.17527.
 
 **McCabe, D.** and X.J. Ban. Optimal Locations and Sizes of Layover Charging Stations for Electric Buses. *Transportation Research Part C: Emerging Technologies* 152 (2023): 104157. 
 

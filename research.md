@@ -4,11 +4,30 @@ title: Research
 ---
 
 # My Research
-## Active Postdoctoral Research at NREL
-At NREL, I'm housed in the [Computational Science Center](https://www.nrel.gov/computational-science) and collaborate with researchers throughout the lab and beyond on challenges in transportation and computing. Some active research projects include:
+## Ongoing Work at National Laboratory of the Rockies (NLR)
+At NLR, I'm based in the [Computational Science Center](https://www.nrel.gov/computational-science) and collaborate with researchers throughout the lab and beyond on emerging problems in transportation and computing. Some active research projects are described below.
 
-- [INFORMES](https://www.nrel.gov/transportation/informes), a national-scale model for analyzing multimodal freight transportation. I'm using [SimPy](https://simpy.readthedocs.io/en/latest/) to develop a data-driven discrete-event simulation model at the core of this project.
+TODO: verify INFORMES acronym
+### INtermodal Freight Operations For a Resilient Mobility Energy System (INFORMES)
+- We're building [INFORMES](https://www.nrel.gov/transportation/informes), a national-scale model for analyzing multimodal freight transportation. I'm using [SimPy](https://simpy.readthedocs.io/en/latest/) to develop a data-driven discrete-event simulation model at the core of this project. I work closely with our team  at NREL and collaborators from several other institutions to model container freight movements throughout the country, simulating shipments over road, rails, and water and transfers at intermodal facilities. The INFORMES tool will enable stakeholder across both public and private sector organizations to evaluate freight system reliability, costs, and energy efficiency across a wide range of future scenarios.
+
+### Transit Vehicle Selection Optimization and Total Cost of Ownership Evaluation
+We're working with the Federal Transit Administration (FTA) to develop a public app to help transit agencies decide which buses to include in their fleets based on data-driven projections of energy usage and total cost of ownership for a wide range of bus types---including 40- and 60-foot models of diesel, hybrid, fuel cell, battery-electric, and CNG powertrains.
+
+For this project, I've developed and streamlined a pipeline to gather GTFS data on all American transit agencies and predict the energy consumption of different bus models on each trip defined in this data, taking into account expected vehicle speeds, elevation differences, and weather conditions. This process relies on NLR's existing RouteE-Powertrain tool (TODO: add link), the same technology that powers Google Maps' energy-aware routing capability. We then process these results into inputs for NLR's Transportation Technology Total Cost of Ownership (T3CO) model to estimate lifetime costs of each vehicle model given each agency's unique service patterns.
+
+The core analysis capability of this project is available in the open-source routee-transit GitHub repository (TODO: add link)
+
+### NEXTBUS
+
+### Transit System Resilience with Mixed Fleets
+
 - Multiple projects focused on transit system electrification, including an FTA-funded project to help agencies design their fleets and a Joint Office project examining the resilience of transit systems served by electric buses.
+
+### NLR Modeling, Simulation, and Optimization Capability (MSOC)
+* Designed and presented a tutorial session for NLR researchers on using GitHub Copilot AI assistant with Visual Studio Code. The session was attended by over 100 NLR research staff (TODO: was it 150?)
+* Compled an edX course on quantum computing to support future NLR research in this area of increasing priority
+* Supported usage of high-performance computing across the lab, especially Kestrel supercomputer
 
 ## PhD Research
 ![Buses charging in Gothenburg, Sweden.](/gbg_bus.png)
